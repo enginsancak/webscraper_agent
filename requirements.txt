@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+pydantic
+langchain_openai
+pydantic==2.5.3
+onnxruntime
